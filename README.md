@@ -21,11 +21,11 @@ Hago software para negocios: sistemas de venta, inventario y gestión que se usa
 
 ---
 
-### 🖼️ Movva Tech en imágenes
+### 🖼️ En imágenes
 
 <p align="center">
-  <img src="assets/movva-galaxia.jpg" alt="Portada de Movva Tech: galaxia animada que forma el logo" width="49%">
   <img src="assets/movva-portada.jpg" alt="Logo de Movva Tech y mensaje principal" width="49%">
+  <img src="assets/gruas.jpg" alt="Web de grúa para motos con cotizador sobre mapa de Bogotá" width="49%">
 </p>
 <p align="center">
   <img src="assets/movva-core.jpg" alt="Movva Tech Core, sistema para gimnasios" width="49%">
