@@ -28,13 +28,3 @@ Hago software para negocios: sistemas de venta, inventario y gestión que se usa
 </p>
 
 **Móvil:** React Native + Expo &nbsp;·&nbsp; **Animación:** GSAP &nbsp;·&nbsp; **Datos:** PostgreSQL, MariaDB, Prisma
-
----
-
-### 📊 Actividad
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelo89&show_icons=true&count_private=true&hide_border=true&bg_color=0b1f15&title_color=34d399&icon_color=34d399&text_color=cfe8da" alt="Estadísticas" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelo89&layout=compact&hide_border=true&bg_color=0b1f15&title_color=34d399&icon_color=34d399&text_color=cfe8da" alt="Lenguajes" height="165">
-</p>
-
